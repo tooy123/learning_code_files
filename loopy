@@ -1,0 +1,25 @@
+number = 5
+while number < 1000:
+  print (number)
+  number = number + 5
+  if(number == 100):
+    number = number+5
+  if(number == 200):
+    number = number+5
+  if(number == 300):
+    number = number+5
+  if(number == 400):
+    number = number+5  
+  if(number == 500):
+    number = number+5 
+  if(number == 600):
+    number = number+5
+  if(number == 700):
+    number = number+5
+  if(number == 800):
+    number = number+5
+  if(number == 900):
+    number = number+5  
+  if(number == 1000):
+    number = number+5 
+  print("done")
